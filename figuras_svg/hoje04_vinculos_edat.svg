@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="292.419365pt" height="121.725522pt" viewBox="0 0 292.419365 121.725522" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.6, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 121.725522 
+L 292.419365 121.725522 
+L 292.419365 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 99.706719 99.204213 
+L 286.439002 99.204213 
+L 286.439002 22.810512 
+L 99.706719 22.810512 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="barras">
+    <path d="M 99.706719 95.731772 
+L 106.680847 95.731772 
+L 106.680847 84.156969 
+L 99.706719 84.156969 
+z
+" clip-path="url(#pcdff383593)" style="fill: #b9b4ac"/>
+   </g>
+   <g id="barras">
+    <path d="M 99.706719 76.440433 
+L 113.654975 76.440433 
+L 113.654975 64.86563 
+L 99.706719 64.86563 
+z
+" clip-path="url(#pcdff383593)" style="fill: #b9b4ac"/>
+   </g>
+   <g id="barras">
+    <path d="M 99.706719 57.149094 
+L 179.909193 57.149094 
+L 179.909193 45.574291 
+L 99.706719 45.574291 
+z
+" clip-path="url(#pcdff383593)" style="fill: #b9b4ac"/>
+   </g>
+   <g id="barras">
+    <path d="M 99.706719 37.857756 
+L 277.546989 37.857756 
+L 277.546989 26.282953 
+L 99.706719 26.282953 
+z
+" clip-path="url(#pcdff383593)" style="fill: #b9b4ac"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="96.206719" y="92.449604" transform="rotate(-0 96.206719 92.449604)">Pesquisadores colaboradores</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="96.206719" y="73.158266" transform="rotate(-0 96.206719 73.158266)">Pesquisadores de carreira</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="96.206719" y="53.866927" transform="rotate(-0 96.206719 53.866927)">Pós-doutorandos</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="96.206719" y="34.575589" transform="rotate(-0 96.206719 34.575589)">Pesquisadores visitantes</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 99.706719 99.204213 
+L 99.706719 22.810512 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="110.167911" y="91.753979" transform="rotate(-0 110.167911 91.753979)">2</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="117.142039" y="72.462641" transform="rotate(-0 117.142039 72.462641)">4</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="183.396258" y="53.171302" transform="rotate(-0 183.396258 53.171302)">23</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="281.034053" y="33.879964" transform="rotate(-0 281.034053 33.879964)">51</text>
+   </g>
+  </g>
+  <g id="titulo">
+   <text style="font-weight: 700; font-size: 8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="69.588609" y="9.32625" transform="rotate(-0 69.588609 9.32625)">Visitantes são a maioria dos 80 vínculos do NIPE</text>
+  </g>
+  <g id="fonte">
+   <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #7a756d" x="69.588609" y="116.833647" transform="rotate(-0 69.588609 116.833647)">Fonte: portal EDAT/UNICAMP, consulta de 2026-11-10 [5].</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pcdff383593">
+   <rect x="99.706719" y="22.810512" width="186.732283" height="76.393701"/>
+  </clipPath>
+ </defs>
+</svg>

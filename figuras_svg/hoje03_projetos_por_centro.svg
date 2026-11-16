@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="244.66689pt" height="150.91758pt" viewBox="0 0 244.66689 150.91758" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.6, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 150.91758 
+L 244.66689 150.91758 
+L 244.66689 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 37.445 124.635059 
+L 224.177283 124.635059 
+L 224.177283 26.414587 
+L 37.445 26.414587 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="barras">
+    <path d="M 37.445 120.170492 
+L 39.710481 120.170492 
+L 39.710481 109.898037 
+L 37.445 109.898037 
+z
+" clip-path="url(#p6fd3d08968)" style="fill: #b9b4ac"/>
+   </g>
+   <g id="barras">
+    <path d="M 37.445 104.366715 
+L 40.843222 104.366715 
+L 40.843222 94.094261 
+L 37.445 94.094261 
+z
+" clip-path="url(#p6fd3d08968)" style="fill: #b9b4ac"/>
+   </g>
+   <g id="barras">
+    <path d="M 37.445 88.562939 
+L 49.905146 88.562939 
+L 49.905146 78.290484 
+L 37.445 78.290484 
+z
+" clip-path="url(#p6fd3d08968)" style="fill: #b9b4ac"/>
+   </g>
+   <g id="barras">
+    <path d="M 37.445 72.759162 
+L 53.303368 72.759162 
+L 53.303368 62.486707 
+L 37.445 62.486707 
+z
+" clip-path="url(#p6fd3d08968)" style="fill: #e69f00"/>
+   </g>
+   <g id="barras">
+    <path d="M 37.445 56.955385 
+L 80.489142 56.955385 
+L 80.489142 46.68293 
+L 37.445 46.68293 
+z
+" clip-path="url(#p6fd3d08968)" style="fill: #b9b4ac"/>
+   </g>
+   <g id="barras">
+    <path d="M 37.445 41.151608 
+L 215.28527 41.151608 
+L 215.28527 30.879154 
+L 37.445 30.879154 
+z
+" clip-path="url(#p6fd3d08968)" style="fill: #0072b2"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="33.945" y="117.539499" transform="rotate(-0 33.945 117.539499)">LABIOEN</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="33.945" y="101.735722" transform="rotate(-0 33.945 101.735722)">LH2</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="33.945" y="85.931946" transform="rotate(-0 33.945 85.931946)">CePIL</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="33.945" y="70.128169" transform="rotate(-0 33.945 70.128169)">CP2b</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="33.945" y="54.324392" transform="rotate(-0 33.945 54.324392)">CEP</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="33.945" y="38.520615" transform="rotate(-0 33.945 38.520615)">NIPE</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 37.445 124.635059 
+L 37.445 26.414587 
+" style="fill: none; stroke: #000000; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="41.975962" y="116.843874" transform="rotate(-0 41.975962 116.843874)">2</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="43.108703" y="101.040097" transform="rotate(-0 43.108703 101.040097)">3</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="52.170627" y="85.236321" transform="rotate(-0 52.170627 85.236321)">11</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="55.568849" y="69.432544" transform="rotate(-0 55.568849 69.432544)">14</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="82.754623" y="53.628767" transform="rotate(-0 82.754623 53.628767)">38</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="217.550751" y="37.82499" transform="rotate(-0 217.550751 37.82499)">157</text>
+   </g>
+  </g>
+  <g id="titulo">
+   <text style="font-weight: 700; font-size: 8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="7.32689" y="9.42375" transform="rotate(-0 7.32689 9.42375)">Sete em cada dez registros de projeto são do NIPE</text>
+  </g>
+  <g id="fonte">
+   <text style="font-size: 6.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #7a756d" x="7.32689" y="145.949533" transform="rotate(-0 7.32689 145.949533)">Registros de projeto no Arquivo Histórico NIPE-CP2b, por centro responsável [3].</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p6fd3d08968">
+   <rect x="37.445" y="26.414587" width="186.732283" height="98.220472"/>
+  </clipPath>
+ </defs>
+</svg>
