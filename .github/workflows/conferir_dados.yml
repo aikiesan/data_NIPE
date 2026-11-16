@@ -1,0 +1,27 @@
+name: Conferir dados
+
+on:
+  push:
+    paths:
+      - 'data/**'
+      - 'docs/**'
+      - 'scripts/**'
+      - 'figuras_svg/**'
+      - '*.html'
+      - '.github/workflows/**'
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  conferir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Conferir dados, textos e privacidade
+        run: python scripts/verificar_dados.py
