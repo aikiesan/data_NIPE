@@ -1,0 +1,25 @@
+# Fora do repositório público
+_privado/
+data_NIPE_export_*/
+*.zip
+!data/nipe_dados.zip
+NIPE_pessoas_genero_conferencia.csv
+conferencia_entrega.md
+
+# arquivos soltos da pasta de trabalho (cópias e versões anteriores)
+/NIPE_AEPLAN_*.csv
+/NIPE_em_*.html
+/NIPE_em_*.pdf
+/NIPE_genero_*.html
+/NIPE_na_COCEN_*.html
+/NIPE in big numbers*.md
+
+# ambiente
+.claude/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# pastas pessoais que não fazem parte do projeto
+WhatsApp*/

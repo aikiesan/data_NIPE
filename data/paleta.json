@@ -1,0 +1,17 @@
+{
+  "_nota": "Mapeamento único de cores do site e das figuras SVG (Okabe-Ito). NIPE e CP2b têm sempre a mesma cor; o restante é contexto em cinza.",
+  "NIPE": "#0072B2",
+  "CP2b": "#E69F00",
+  "contexto": "#B9B4AC",
+  "contexto_escuro": "#7A756D",
+  "secundaria": "#56B4E9",
+  "alerta": "#D55E00",
+  "centros_sediados": {
+    "NIPE": "#0072B2",
+    "CP2b": "#E69F00",
+    "CEP": "#B9B4AC",
+    "CePIL": "#B9B4AC",
+    "LH2": "#B9B4AC",
+    "LABIOEN": "#B9B4AC"
+  }
+}

@@ -1,0 +1,167 @@
+edicao,ano_base,pagina_pdf,tabela,resultado,detalhe
+2005,2004,105,7.1,OK,"23 centros/núcleos; soma das linhas [313, 443, 189, 46, 299, 543, 398, 354] × TOTAL impresso [313, 443, 189, 46, 299, 543, 398, 354]"
+2005,2004,105,7.1,OK,NIPE docentes: 80 × extração anterior 80
+2005,2004,105,7.1,OK,NIPE pesquisadores: 70 × extração anterior 70
+2005,2004,105,7.1,OK,NIPE bolsistas: 16 × extração anterior 16
+2005,2004,105,7.1,OK,NIPE projetos_em_execucao: 12 × extração anterior 12
+2006,2005,108,7.1,OK,"23 centros/núcleos; soma das linhas [312, 685, 183, 61, 255, 499, 516, 389] × TOTAL impresso [312, 685, 183, 61, 255, 499, 516, 389]"
+2006,2005,108,7.1,OK,NIPE docentes: 61 × extração anterior 61
+2006,2005,108,7.1,OK,NIPE pesquisadores: 67 × extração anterior 67
+2006,2005,108,7.1,OK,NIPE bolsistas: 15 × extração anterior 15
+2006,2005,108,7.1,OK,NIPE projetos_em_execucao: 13 × extração anterior 13
+2007,2006,111,7.1,OK,"23 centros/núcleos; soma das linhas [268, 469, 212, 73, 325, 614, 520, 377] × TOTAL impresso [268, 469, 212, 73, 325, 614, 520, 377]"
+2007,2006,111,7.1,OK,NIPE docentes: 17 × extração anterior 17
+2007,2006,111,7.1,OK,NIPE pesquisadores: 11 × extração anterior 11
+2007,2006,111,7.1,OK,NIPE bolsistas: 16 × extração anterior 16
+2007,2006,111,7.1,OK,NIPE projetos_em_execucao: 8 × extração anterior 8
+2008,2007,137,7.1,DIVERGE,"23 centros/núcleos; soma das linhas [268, 528, 234, 61, 320, 672, 541, 382] × TOTAL impresso [268, 528, 234, 61, 320, 672, 541, 158]"
+2008,2007,137,7.1,OK,NIPE docentes: 27 × extração anterior 27
+2008,2007,137,7.1,OK,NIPE pesquisadores: 34 × extração anterior 34
+2008,2007,137,7.1,OK,NIPE bolsistas: 6 × extração anterior 6
+2008,2007,137,7.1,OK,NIPE projetos_em_execucao: 13 × extração anterior 13
+2009,2008,140,7.1,DIVERGE,"23 centros/núcleos; soma das linhas [244, 411, 223, 89, 345, 535, 600, 480] × TOTAL impresso [244, 411, 223, 89, 345, 535, 513, 211]"
+2009,2008,140,7.1,OK,NIPE docentes: 14 × extração anterior 14
+2009,2008,140,7.1,OK,NIPE pesquisadores: 4 × extração anterior 4
+2009,2008,140,7.1,OK,NIPE bolsistas: 18 × extração anterior 18
+2009,2008,140,7.1,OK,NIPE projetos_em_execucao: 10 × extração anterior 10
+2010,2009,145,7.1,OK,"23 centros/núcleos; soma das linhas [258, 447, 222, 70, 334, 597, 728, 504] × TOTAL impresso [258, 447, 222, 70, 334, 597, 728, 504]"
+2010,2009,145,7.1,OK,NIPE docentes: 24 × extração anterior 24
+2010,2009,145,7.1,OK,NIPE pesquisadores: 45 × extração anterior 45
+2010,2009,145,7.1,OK,NIPE bolsistas: 79 × extração anterior 79
+2010,2009,145,7.1,OK,NIPE projetos_em_execucao: 14 × extração anterior 14
+2011,2010,147,7.1,OK,"21 centros/núcleos; soma das linhas [274, 454, 222, 72, 380, 587, 723, 891] × TOTAL impresso [274, 454, 222, 72, 380, 587, 723, 891]"
+2011,2010,147,7.1,OK,NIPE docentes: 41 × extração anterior 41
+2011,2010,147,7.1,OK,NIPE pesquisadores: 92 × extração anterior 92
+2011,2010,147,7.1,OK,NIPE bolsistas: 21 × extração anterior 21
+2011,2010,147,7.1,OK,NIPE projetos_em_execucao: 16 × extração anterior 16
+2012,2011,157,7.1,OK,"21 centros/núcleos; soma das linhas [283, 486, 247, 73, 364, 551, 747, 422] × TOTAL impresso [283, 486, 247, 73, 364, 551, 747, 422]"
+2012,2011,157,7.1,OK,NIPE docentes: 32 × extração anterior 32
+2012,2011,157,7.1,OK,NIPE pesquisadores: 16 × extração anterior 16
+2012,2011,157,7.1,OK,NIPE bolsistas: 14 × extração anterior 14
+2012,2011,157,7.1,OK,NIPE projetos_em_execucao: 8 × extração anterior 8
+2013,2012,155,7.1,OK,"21 centros/núcleos; soma das linhas [260, 456, 251, 65, 422, 534, 726, 440] × TOTAL impresso [260, 456, 251, 65, 422, 534, 726, 440]"
+2013,2012,155,7.1,OK,NIPE docentes: 25 × extração anterior 25
+2013,2012,155,7.1,OK,NIPE pesquisadores: 7 × extração anterior 7
+2013,2012,155,7.1,OK,NIPE bolsistas: 10 × extração anterior 10
+2013,2012,155,7.1,OK,NIPE projetos_em_execucao: 6 × extração anterior 6
+2014,2013,143,7.1,OK,"21 centros/núcleos; soma das linhas [258, 461, 283, 88, 417, 557, 771, 525] × TOTAL impresso [258, 461, 283, 88, 417, 557, 771, 525]"
+2014,2013,143,7.1,OK,NIPE docentes: 15 × extração anterior 15
+2014,2013,143,7.1,OK,NIPE pesquisadores: 9 × extração anterior 9
+2014,2013,143,7.1,OK,NIPE bolsistas: 15 × extração anterior 15
+2014,2013,143,7.1,OK,NIPE projetos_em_execucao: 5 × extração anterior 5
+2015,2014,151,7.1,DIVERGE,"21 centros/núcleos; soma das linhas [265, 538, 297, 108, 460, 650, 793, 426] × TOTAL impresso [265, 533, 297, 108, 460, 650, 783, 426]"
+2015,2014,151,7.1,OK,NIPE docentes: 25 × extração anterior 25
+2015,2014,151,7.1,OK,NIPE pesquisadores: 85 × extração anterior 85
+2015,2014,151,7.1,OK,NIPE bolsistas: 30 × extração anterior 30
+2015,2014,151,7.1,OK,NIPE projetos_em_execucao: 10 × extração anterior 10
+2016,2015,155,7.1,OK,"21 centros/núcleos; soma das linhas [265, 477, 409, 108, 497, 691, 1095, 370] × TOTAL impresso [265, 477, 409, 108, 497, 691, 1095, 370]"
+2016,2015,155,7.1,OK,NIPE docentes: 10 × extração anterior 10
+2016,2015,155,7.1,OK,NIPE pesquisadores: 23 × extração anterior 23
+2016,2015,155,7.1,OK,NIPE bolsistas: 10 × extração anterior 10
+2016,2015,155,7.1,OK,NIPE projetos_em_execucao: 12 × extração anterior 12
+2016,2015,168,8.3,OK,21 colunas (CBMEG CCS CEB CEMIB CEPAGRI CEPETRO CESOP CIDDIC CLE CMU CPQBA LUME NEPA NEPAM NEPO NEPP NICS NIED NIPE NUDECRI PAGU); 37 linhas; atribuição {'ordem': 777}
+2016,2015,168,8.3,OK,NIPE PROJETOS COM FINANCIAMENTO: 22 × extração anterior 22
+2016,2015,168,8.3,OK,NIPE CONVENIOS: 3 × extração anterior 3
+2016,2015,168,8.3,OK,NIPE PROMOCAO DE EVENTOS: 13 × extração anterior 13
+2016,2015,168,8.3,OK,NIPE LINHAS DE PESQUISA: 5 × extração anterior 5
+2017,2016,157,7.1,DIVERGE,"21 centros/núcleos; soma das linhas [227, 411, 335, 94, 484, 679, 879, 394] × TOTAL impresso [227, 441, 335, 94, 484, 679, 879, 394]"
+2017,2016,157,7.1,OK,NIPE docentes: 30 × extração anterior 30
+2017,2016,157,7.1,OK,NIPE pesquisadores: 60 × extração anterior 60
+2017,2016,157,7.1,OK,NIPE bolsistas: 51 × extração anterior 51
+2017,2016,157,7.1,OK,NIPE projetos_em_execucao: 14 × extração anterior 14
+2017,2016,170,8.3,OK,21 colunas (CBMEG CCS Nano CEB CEMIB CEPAGRI CEPETRO CESOP CIDDIC CLE CMU CPQBA LUME NEPA NEPAM NEPO NEPP NICS NIED NIPE NUDECRI PAGU); 37 linhas; atribuição {'ordem': 777}
+2017,2016,170,8.3,OK,NIPE PROJETOS COM FINANCIAMENTO: 19 × extração anterior 19
+2017,2016,170,8.3,OK,NIPE CONVENIOS: 3 × extração anterior 3
+2017,2016,170,8.3,OK,NIPE PROMOCAO DE EVENTOS: 11 × extração anterior 11
+2017,2016,170,8.3,OK,NIPE LINHAS DE PESQUISA: 5 × extração anterior 5
+2018,2017,155,7.1,OK,"21 centros/núcleos; soma das linhas [224, 419, 386, 99, 530, 693, 1043, 444] × TOTAL impresso [224, 419, 386, 99, 530, 693, 1043, 444]"
+2018,2017,155,7.1,OK,NIPE docentes: 34 × extração anterior 34
+2018,2017,155,7.1,OK,NIPE pesquisadores: 16 × extração anterior 16
+2018,2017,155,7.1,OK,NIPE bolsistas: 8 × extração anterior 8
+2018,2017,155,7.1,OK,NIPE projetos_em_execucao: 9 × extração anterior 9
+2018,2017,168,8.3,OK,21 colunas (CBMEG CCS Nano CEB CESOP CEPETRO CIDDIC CLE CMU CEPAGRI CEMIB CPQBA NUDECRI NEPO PAGU NEPP NEPAM NEPA NIED NICS LUME NIPE); 37 linhas; atribuição {'ordem': 777}
+2018,2017,168,8.3,OK,NIPE PROJETOS COM FINANCIAMENTO: 14 × extração anterior 14
+2018,2017,168,8.3,OK,NIPE CONVENIOS: 3 × extração anterior 3
+2018,2017,168,8.3,OK,NIPE PROMOCAO DE EVENTOS: 6 × extração anterior 6
+2018,2017,168,8.3,OK,NIPE LINHAS DE PESQUISA: 5 × extração anterior 5
+2019,2018,147,7.1,OK,"21 centros/núcleos; soma das linhas [231, 458, 399, 135, 530, 784, 898, 450] × TOTAL impresso [231, 458, 399, 135, 530, 784, 898, 450]"
+2019,2018,147,7.1,OK,NIPE docentes: 34 × extração anterior 34
+2019,2018,147,7.1,OK,NIPE pesquisadores: 19 × extração anterior 19
+2019,2018,147,7.1,OK,NIPE bolsistas: 6 × extração anterior 6
+2019,2018,147,7.1,OK,NIPE projetos_em_execucao: 12 × extração anterior 12
+2019,2018,160,8.3,OK,21 colunas (CBMEG CCS Nano CEB CESOP CEPETRO CIDDIC CLE CMU CEPAGRI CEMIB CPQBA NUDECRI NEPO PAGU NEPP NEPAM NEPA NIED NICS LUME NIPE); 37 linhas; atribuição {'ordem': 777}
+2019,2018,160,8.3,OK,NIPE PROJETOS COM FINANCIAMENTO: 19 × extração anterior 19
+2019,2018,160,8.3,OK,NIPE CONVENIOS: 6 × extração anterior 6
+2019,2018,160,8.3,OK,NIPE PROMOCAO DE EVENTOS: 5 × extração anterior 5
+2019,2018,160,8.3,OK,NIPE LINHAS DE PESQUISA: 5 × extração anterior 5
+2020,2019,149,7.1,OK,"21 centros/núcleos; soma das linhas [273, 368, 426, 166, 520, 836, 1195, 521, 0] × TOTAL impresso [273, 368, 426, 166, 520, 836, 1195, 521, 0]"
+2020,2019,149,7.1,OK,NIPE docentes: 37 × extração anterior 37
+2020,2019,149,7.1,OK,NIPE pesquisadores: 20 × extração anterior 20
+2020,2019,149,7.1,OK,NIPE bolsistas: 9 × extração anterior 9
+2020,2019,149,7.1,OK,NIPE projetos_em_execucao: 26 × extração anterior 26
+2020,2019,162,8.3,OK,21 colunas (CBMEG CCS Nano CEB CESOP CEPETRO CIDDIC CLE CMU CEPAGRI CEMIB CPQBA NUDECRI NEPO PAGU NEPP NEPAM NEPA NIED NICS LUME NIPE); 37 linhas; atribuição {'ordem': 777}
+2020,2019,162,8.3,OK,NIPE PROJETOS COM FINANCIAMENTO: 23 × extração anterior 23
+2020,2019,162,8.3,OK,NIPE CONVENIOS: 10 × extração anterior 10
+2020,2019,162,8.3,OK,NIPE PROMOCAO DE EVENTOS: 9 × extração anterior 9
+2020,2019,162,8.3,OK,NIPE LINHAS DE PESQUISA: 5 × extração anterior 5
+2021,2020,149,7.1,OK,"21 centros/núcleos; soma das linhas [224, 291, 408, 165, 461, 872, 1019, 301] × TOTAL impresso [224, 291, 408, 165, 461, 872, 1019, 301]"
+2021,2020,149,7.1,OK,NIPE docentes: 25 × extração anterior 25
+2021,2020,149,7.1,OK,NIPE pesquisadores: 18 × extração anterior 18
+2021,2020,149,7.1,OK,NIPE bolsistas: 11 × extração anterior 11
+2021,2020,149,7.1,OK,NIPE projetos_em_execucao: 5 × extração anterior 5
+2021,2020,160,8.3,OK,21 colunas (CBMEG CCS Nano CEB CESOP CEPETRO CIDDIC CLE CMU CEPAGRI CEMIB CPQBA NUDECRI NEPO PAGU NEPP NEPAM NEPA NIED NICS LUME NIPE); 36 linhas; atribuição {'ordem': 756}
+2021,2020,160,8.3,OK,NIPE PROJETOS COM FINANCIAMENTO: 26 × extração anterior 26
+2021,2020,160,8.3,OK,NIPE CONVENIOS: 2 × extração anterior 2
+2021,2020,160,8.3,OK,NIPE PROMOCAO DE EVENTOS: 3 × extração anterior 3
+2021,2020,160,8.3,OK,NIPE LINHAS DE PESQUISA: 15 × extração anterior 15
+2022,2021,153,7.1,OK,"21 centros/núcleos; soma das linhas [232, 325, 446, 168, 523, 872, 1015, 352] × TOTAL impresso [232, 325, 446, 168, 523, 872, 1015, 352]"
+2022,2021,153,7.1,OK,NIPE docentes: 35 × extração anterior 35
+2022,2021,153,7.1,OK,NIPE pesquisadores: 37 × extração anterior 37
+2022,2021,153,7.1,OK,NIPE bolsistas: 29 × extração anterior 29
+2022,2021,153,7.1,OK,NIPE projetos_em_execucao: 8 × extração anterior 8
+2022,2021,166,8.3,OK,21 colunas (CBMEG CCS Nano CEB CESOP CEPETRO CIDDIC CLE CMU CEPAGRI CEMIB CPQBA NUDECRI NEPO PAGU NEPP NEPAM NEPA NIED NICS LUME NIPE); 36 linhas; atribuição {'ordem': 756}
+2022,2021,166,8.3,OK,NIPE PROJETOS COM FINANCIAMENTO: 24 × extração anterior 24
+2022,2021,166,8.3,OK,NIPE CONVENIOS: 0 × extração anterior 0
+2022,2021,166,8.3,OK,NIPE PROMOCAO DE EVENTOS: 0 × extração anterior 0
+2022,2021,166,8.3,OK,NIPE LINHAS DE PESQUISA: 14 × extração anterior 14
+2023,2022,153,7.1,OK,"21 centros/núcleos; soma das linhas [266, 361, 412, 187, 466, 936, 1139, 191] × TOTAL impresso [266, 361, 412, 187, 466, 936, 1139, 191]"
+2023,2022,153,7.1,OK,NIPE docentes: 39 × extração anterior 39
+2023,2022,153,7.1,OK,NIPE pesquisadores: 63 × extração anterior 63
+2023,2022,153,7.1,OK,NIPE bolsistas: 9 × extração anterior 9
+2023,2022,153,7.1,OK,NIPE projetos_em_execucao: 6 × extração anterior 6
+2023,2022,166,8.3,OK,21 colunas (CBMEG CCS Nano CEB CESOP CEPETRO CIDDIC CLE CMU CEPAGRI CEMIB CPQBA NUDECRI NEPO PAGU NEPP NEPAM NEPA NIED NICS LUME NIPE); 36 linhas; atribuição {'ordem': 756}
+2023,2022,166,8.3,OK,NIPE PROJETOS COM FINANCIAMENTO: 90 × extração anterior 90
+2023,2022,166,8.3,OK,NIPE CONVENIOS: 0 × extração anterior 0
+2023,2022,166,8.3,OK,NIPE PROMOCAO DE EVENTOS: 14 × extração anterior 14
+2023,2022,166,8.3,OK,NIPE LINHAS DE PESQUISA: 25 × extração anterior 25
+2024,2023,153,7.1,OK,"21 centros/núcleos; soma das linhas [301, 415, 403, 201, 487, 1003, 1088, 246] × TOTAL impresso [301, 415, 403, 201, 487, 1003, 1088, 246]"
+2024,2023,153,7.1,OK,NIPE docentes: 7 × extração anterior 7
+2024,2023,153,7.1,OK,NIPE pesquisadores: 48 × extração anterior 48
+2024,2023,153,7.1,OK,NIPE bolsistas: 23 × extração anterior 23
+2024,2023,153,7.1,OK,NIPE projetos_em_execucao: 9 × extração anterior 9
+2024,2023,166,8.3,OK,21 colunas (CBMEG CCS Nano CEB CESOP CEPETRO CIDDIC CLE CMU CEPAGRI CEMIB CPQBA NUDECRI NEPO PAGU NEPP NEPAM NEPA NIED NICS LUME NIPE); 36 linhas; atribuição {'ordem': 756}
+2024,2023,166,8.3,OK,NIPE PROJETOS COM FINANCIAMENTO: 39 × extração anterior 39
+2024,2023,166,8.3,OK,NIPE CONVENIOS: 3 × extração anterior 3
+2024,2023,166,8.3,OK,NIPE PROMOCAO DE EVENTOS: 14 × extração anterior 14
+2024,2023,166,8.3,OK,NIPE LINHAS DE PESQUISA: 5 × extração anterior 5
+2025,2024,151,7.1,AVISO,CIDDIC: 7 números para 8 colunas
+2025,2024,151,7.1,OK,"22 centros/núcleos; soma das linhas [312, 537, 385, 254, 395, 1121, 957, 270] × TOTAL impresso [312, 537, 385, 254, 395, 1121, 957, 270]"
+2025,2024,151,7.1,OK,NIPE docentes: 34 × extração anterior 34
+2025,2024,151,7.1,OK,NIPE pesquisadores: 94 × extração anterior 94
+2025,2024,151,7.1,OK,NIPE bolsistas: 46 × extração anterior 46
+2025,2024,151,7.1,OK,NIPE projetos_em_execucao: 16 × extração anterior 16
+2025,2024,164,8.3,OK,"22 colunas (CBMEG CCS Nano CEB CESOP CEPETRO CIDDIC CLE CMU CEPAGRI CEMIB CPQBA NUDECRI NEPO PAGU NEPP NEPAM NEPA NIED NICS LUME NIPE NEAB); 36 linhas; atribuição {'proximidade': 21, 'ordem': 770}"
+2025,2024,164,8.3,OK,NIPE PROJETOS COM FINANCIAMENTO: 57 × extração anterior 57
+2025,2024,164,8.3,OK,NIPE CONVENIOS: 3 × extração anterior 3
+2025,2024,164,8.3,OK,NIPE PROMOCAO DE EVENTOS: 5 × extração anterior 5
+2025,2024,164,8.3,OK,NIPE LINHAS DE PESQUISA: 5 × extração anterior 5
+2026,2025,155,7.1,OK,"23 centros/núcleos; soma das linhas [334, 566, 487, 271, 438, 1298, 868, 178] × TOTAL impresso [334, 566, 487, 271, 438, 1298, 868, 178]"
+2026,2025,155,7.1,OK,NIPE docentes: 39 × extração anterior 39
+2026,2025,155,7.1,OK,NIPE pesquisadores: 144 × extração anterior 144
+2026,2025,155,7.1,OK,NIPE bolsistas: 60 × extração anterior 60
+2026,2025,155,7.1,OK,NIPE projetos_em_execucao: 74 × extração anterior 74
+2026,2025,169,8.3,OK,22 colunas (CBMEG CCS Nano CEB CESOP CEPETRO CIDDIC CLE CMU CEPAGRI CEMIB CPQBA NUDECRI NEPO PAGU NEPP NEPAM NEPA NIED NICS LUME NIPE NEAB); 34 linhas; atribuição {'ordem': 748}
+2026,2025,169,8.3,OK,NIPE PROJETOS COM FINANCIAMENTO: 175 × extração anterior 175
+2026,2025,169,8.3,OK,NIPE CONVENIOS: 3 × extração anterior 3
+2026,2025,169,8.3,OK,NIPE PROMOCAO DE EVENTOS: 18 × extração anterior 18
+2026,2025,169,8.3,OK,NIPE LINHAS DE PESQUISA: 5 × extração anterior 5
